@@ -1,12 +1,12 @@
-# Quiz endokrynologia — wszystkie lata
+# Endokryny 2026/2027
 
-Interaktywny quiz do nauki na podstawie przekazanych materiałów archiwalnych oraz zestawu 2025/26.
+Interaktywny quiz do nauki z 146 pytaniami archiwalnymi i opracowanymi.
 
 ## Użycie
 
 Otwórz stronę quizu: `https://doktorfarm.github.io/quiz-endokrynologia-2025-26/`
 
-Quiz działa w przeglądarce. Audyt kluczy dla 75 pytań źródłowych znajduje się w pliku [Audyt_75_pytan.md](Audyt_75_pytan.md).
+Quiz działa w przeglądarce, bez instalacji. Audyt kluczy dla 75 pytań źródłowych znajduje się w pliku [Audyt_75_pytan.md](Audyt_75_pytan.md).
 
 ## Ważne
 
